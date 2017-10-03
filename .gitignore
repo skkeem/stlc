@@ -1,0 +1,6 @@
+_build/
+test
+*.tmp
+*.swp
+*.cmi
+*.cmo
